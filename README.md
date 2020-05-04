@@ -1,3 +1,5 @@
+Repo from GitHub
 
-[https://webrtc-screen-sharing.herokuapp.com/](https://webrtc-screen-sharing.herokuapp.com/)
+Running on: [Heroku](https://webrtc-screen-sharing.herokuapp.com/)
 
+[README.md](https://webrtc-screen-sharing.herokuapp.com/README.md)
