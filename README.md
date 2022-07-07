@@ -1,13 +1,13 @@
-Pravljenje ove aplikacije je počelo od linka *https://www.webrtc-experiment.com/Pluginfree-Screen-Sharing/*.
+The creation of this started from the link: *https://www.webrtc-experiment.com/Pluginfree-Screen-Sharing/*.
 
-Sva WebRTC komunikacija mora se odbezbediti korišćenjem HTTPS protokola.
+All WebRTC communication must be secured using the HTTPS protocol.
 
-Aplikacij se nalazi na linku: [Heroku](https://webrtc-screen-sharing.herokuapp.com/)
+The application is available at the link: [Heroku](https://webrtc-screen-sharing.herokuapp.com/)
 
 [README.md](https://webrtc-screen-sharing.herokuapp.com/README.md)
 
 ---
 
-1. index.html - Poziva direktno funkcije (id i klase) iz webrtc.js
-2. webrtc.js - Povezuje se na sokete preko https://socketio-over-nodejs2.herokuapp.com:443 i importuje socket.io.js
-3. conference.js - Koristi adapter.js i config iz webrtc.js
+1. index.html - It calls directly functions (id and class) from webrtc.js
+2. webrtc.js - Connects to sockets via https://socketio-over-nodejs2.herokuapp.com:443 and imports socket.io.js
+3. conference.js - It uses adapter.js and config from webrtc.js
